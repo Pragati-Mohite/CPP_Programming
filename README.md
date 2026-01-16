@@ -1,2 +1,2 @@
 # CPP_Programming
-Programs &amp; assignments for Logic Building batch - C++
+Programs of PPA batch - C++
